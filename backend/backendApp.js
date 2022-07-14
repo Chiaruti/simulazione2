@@ -123,7 +123,7 @@ app.get("/find", async(req, res) => {
           <input type="text" name="astring">
         </div>
         <button>Cerca</button>&nbsp;
-        <button><a style='color:#FFFFFF' href=/>HOME</a></button>&nbsp;
+        <button><a style='color:#FFFFFF' href=>HOME</a></button>&nbsp;
         <button><a style='color:#FFFFFF' href=/list>VISULIZZA TUTTI</a></button>
       </form>
     </body>
