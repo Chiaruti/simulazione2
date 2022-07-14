@@ -1,0 +1,12 @@
+, così lui non ti copia anche quelli
+
+
+lo devi fare nella cartella mamma di backendApp.js-> 
+poi installi tutte le robe dentro (tutto quello che trovi in backendApp.js
+
+node ba(tab) e runna
+
+#1 passaggio
+npm init -y: così ti crea il package.json
+
+fai un file .dockerignore dove metto i node_modules
